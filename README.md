@@ -1,6 +1,7 @@
-# comida
 
-A new Flutter project.
+
+![1705700190460](https://github.com/rafaelabou1999/miniStore-flutter/assets/120579642/1f8d71ec-a6de-47b4-9296-da3c3aa71dab)
+
 
 ## Getting Started
 
